@@ -277,7 +277,7 @@ section.wrapper, article.wrapper {
 
 }
 
-@media (max-width: 786px) {
+@media (max-width: 900px) {
 	#banner h1 {
 		font-size: 2rem;
 	}
